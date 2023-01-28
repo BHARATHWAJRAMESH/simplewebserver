@@ -44,5 +44,6 @@ httpd.serve_forever()
 ## OUTPUT:
 ![OUTPUT](./image/Out.png)
 
+
 ## RESULT:
 The program for implementing Simple Web Server has been completed successfully
